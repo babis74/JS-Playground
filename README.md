@@ -1,4 +1,4 @@
-# Onclick-Event
+# Onclick Event in Javascript | 
 
 This is just a simple JS script that Makes a text appear on DOM after clicking a button.
 
