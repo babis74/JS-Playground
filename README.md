@@ -1,8 +1,8 @@
-# Onclick Event in Javascript | 
+# Onclick Event in Javascript | Το onclick συμβάν εμφανίζεται όταν ο χρήστης κάνει κλικ σε ένα στοιχείο. 
 
 This is just a simple JS script that Makes a text appear on DOM after clicking a button.
 
-Αυτο το πρότζεκτ είναι ένα σενάριο Javascript , οπου ο χρήστης, κάνοντας κλίκ επάνω σε κουμπι, λαμβανει επιπρόσθετες πληροφορίες
+Αυτο το πρότζεκτ είναι ένα σενάριο Javascript , οπου ο χρήστης, κάνοντας κλίκ επάνω σε κουμπι, λαμβανει επιπρόσθετες πληροφορίες. Στην περ
 
 
 ![Στιγμιότυπο οθόνης_2022-04-29_12-14-24](https://user-images.githubusercontent.com/72227584/165917596-dac7ab83-263e-4548-9348-805ff72ea51b.png)
